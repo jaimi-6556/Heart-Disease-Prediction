@@ -97,3 +97,10 @@ seaborn
 
 scikit-learn
 
+📌 Future Work
+
+Hyperparameter tuning with GridSearchCV / RandomizedSearchCV
+
+Deploy model with Flask / Streamlit
+
+Add SHAP explainability for model interpretability
